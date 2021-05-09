@@ -73,6 +73,5 @@ public class Seller {
         } catch (ExecutionException e) {
             e.printStackTrace();
         }
-
     }
 }
